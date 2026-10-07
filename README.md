@@ -34,7 +34,7 @@ This project seeks to answer:
 ### Q4 2023 was the strongest quarter
 
 Q4 2023 recorded the highest quarterly revenue during the
-24-month period, driven primarily by larger basket sizes and AOV.
+24-month period, driven primarily by higher order volume and AOV.
 
 ### December 2023 was the strongest month
 
@@ -45,9 +45,8 @@ Australia and Brazil contributed 77.15% of December 2023 revenue.
 ### June 2022 showed the weakest performance
 
 June 2022 recorded the lowest revenue and boxes sold, while
-AOV was also among the lowest-performing months.
+its AOV was also among the lowest across the 24-month period.
 
-### February of the same year showing significant drops
+### February showed consistent weaker performance
 
-February 2022 and 2023 experienced huge sales drop in all
-chocolate types, quantity sold and revenue generated per order. 
+February 2022 and February 2023 both experienced substantial declines in revenue and quantity of boxes sold across all chocolate categories combines with lower AOV. This pattern may be showing a sign of recurring decline period of weaker sales performance.
