@@ -33,14 +33,18 @@ This project seeks to answer:
 
 ### Q4 2023 was the strongest quarter
 
-Q4 2023 recorded the highest quarterly revenue during the
-24-month period, driven primarily by higher order volume and AOV.
+Q4 2023 recorded the highest quarterly revenue with a 14.18% increase compared from the previous quarter during the
+24-month period, driven primarily by high order volume and higher AOV.
 
 ### December 2023 was the strongest month
 
 December 2023 led in revenue, boxes sold, and AOV.
 
 Australia and Brazil contributed 77.15% of December 2023 revenue.
+
+### Australia and Brazil takes the majority portion of total revenue
+
+Combining the two regions would show 77.1% of total sales across the 24-month period. Along with high value orders.
 
 ### June 2022 showed the weakest performance
 
