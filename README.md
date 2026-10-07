@@ -22,10 +22,32 @@ This project seeks to answer:
 
 ## Key KPIs
 
-Revenue -  $103.6M
-Orders - 199,563
-AOV (Average Order Value) - $423.83
-Boxes sold - 28.4M
-Marketing Spend - $19.0M
-ROAS (Return on Ad Spend) - 5.45x
+- Revenue -  $103.6M
+- Orders - 199,563
+- AOV (Average Order Value) - $519.08
+- Boxes sold - 28.4M
+- Marketing Spend - $19.0M
+- ROAS (Return on Ad Spend) - 5.45x
   
+## Key Insights
+
+### Q4 2023 was the strongest quarter
+
+Q4 2023 recorded the highest quarterly revenue during the
+24-month period, driven primarily by larger basket sizes and AOV.
+
+### December 2023 was the strongest month
+
+December 2023 led in revenue, boxes sold, and AOV.
+
+Australia and Brazil contributed 77.15% of December 2023 revenue.
+
+### June 2022 showed the weakest performance
+
+June 2022 recorded the lowest revenue and boxes sold, while
+AOV was also among the lowest-performing months.
+
+### February of the same year showing significant drops
+
+February 2022 and 2023 experienced huge sales drop in all
+chocolate types, quantity sold and revenue generated per order. 
