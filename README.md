@@ -19,7 +19,16 @@ This project seeks to answer:
 - PivotTables
 - Data Cleaning
 
+## Data Cleaning & Preparation
 
+- Corrected amount calculations
+- Corrected negative values in boxes sold column using absolute value (assuming the negative values are typing error)
+- Applied discounts on revenue for accurate analysis
+- Added period and quarter columns
+- Filled missing price per box prices by averages (grouped by Product, Country, Channel) using Power Query
+- Fixed mixed-up date formats
+
+  
 ## Key KPIs
 
 - Revenue -  $103.6M
