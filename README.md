@@ -44,7 +44,7 @@ Australia and Brazil contributed 77.15% of December 2023 revenue.
 
 ### Australia and Brazil takes the majority portion of total revenue
 
-Combining the two regions would show 77.1% of total sales across the 24-month period. Along with high value orders.
+Summing the two regions would show 77.1% of total sales across the 24-month period. Along with high value orders.
 
 ### June 2022 showed the weakest performance
 
