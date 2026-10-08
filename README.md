@@ -1,4 +1,4 @@
-# Chocolate-Sales-Performance-and-Marketing-Project
+# Chocolate-Sales-Performance-and-Marketing-Efficienct-Project
 This project involves analyzing sales performance and marketing efficiency, observing monthly trends to look for patterns, and which regions are contributing to the sales. 
 
 ## Business Questions
