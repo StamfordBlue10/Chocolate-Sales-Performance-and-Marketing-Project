@@ -43,7 +43,7 @@ This project seeks to answer:
 ### Q4 2023 was the strongest quarter
 
 Q4 2023 recorded the highest quarterly revenue with a 14.18% increase compared from the previous quarter during the
-24-month period, driven primarily by high order volume and higher AOV.
+24-month period, driven primarily by high order volume, higher AOV and high efficiency in marketing.
 
 ### December 2023 was the strongest month
 
