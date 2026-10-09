@@ -60,6 +60,10 @@ Australia and Brazil contributed 77.15% of December 2023 revenue.
 
 Summing the two regions would show 77.1% of total sales across the 24-month period. Along with high value orders.
 
+### 70% Dark Bar was the top sold product
+
+The product generated $26.6M in revenue after discounts. Over 25% of total sales.
+
 ### June 2022 showed the weakest performance
 
 June 2022 recorded the lowest revenue and boxes sold, while
